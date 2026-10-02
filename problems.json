@@ -1,5 +1,13 @@
 [
   {
+    "site": "SWEA",
+    "level": "D1",
+    "title": "평균값 구하기",
+    "number": "2071",
+    "date": "2026-10-02 14:18",
+    "url": "https://github.com/Hiri-kor/algorithm/tree/main/SWEA/D1/2071.%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0"
+  },
+  {
     "site": "프로그래머스",
     "level": "Lv.0",
     "title": "a와 b 출력하기",

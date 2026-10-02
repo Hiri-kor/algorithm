@@ -4,14 +4,15 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 3문제** (SWEA 1 · 프로그래머스 2)
+**총 4문제** (SWEA 2 · 프로그래머스 2)
 
 ## SWEA
 
-### D1 (1)
+### D1 (2)
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
+| 2071 | [평균값 구하기](https://github.com/Hiri-kor/algorithm/tree/main/SWEA/D1/2071.%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) | 2026-10-02 |
 | 2072 | [홀수만 더하기](https://github.com/Hiri-kor/algorithm/tree/main/SWEA/D1/2072.%E2%80%85%ED%99%80%EC%88%98%EB%A7%8C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) | 2026-10-01 |
 
 ## 프로그래머스
