@@ -1,0 +1,39 @@
+name: Build problem index
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:            # 이 워크플로가 만드는 파일만 바뀐 경우엔 다시 돌지 않음
+      - README.md
+      - problems.json
+  workflow_dispatch:         # Actions 탭에서 수동 실행 버튼
+
+permissions:
+  contents: write            # README.md, problems.json을 커밋하기 위한 권한
+
+concurrency:                 # 업로드가 연달아 와도 한 번에 하나씩 실행
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: 목록 만들기
+        run: python scripts/build_index.py
+
+      - name: 바뀐 경우에만 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md problems.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: 문제 목록 갱신"
+          git pull --rebase
+          git push
