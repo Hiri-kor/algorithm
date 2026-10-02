@@ -115,21 +115,26 @@ def build_readme(problems):
         tree.setdefault(p["site"], {}).setdefault(p["level"], []).append(p)
 
     summary = " · ".join(f"{site} {sum(len(v) for v in tree[site].values())}" for site in sorted(tree))
-    lines += [f"**총 {len(problems)}문제** ({summary})", ""]
+    lines += [f"**총 {len(problems)}문제** ({summary})", "", "아래 항목을 누르면 펼쳐집니다.", ""]
 
+    # 사이트별로 한 번, 그 안에서 난이도별로 한 번 더 접는다.
+    # <summary> 다음과 </details> 앞에 빈 줄이 있어야 안쪽 마크다운 표가 제대로 그려진다.
     for site in sorted(tree):
-        lines += [f"## {site}", ""]
+        site_total = sum(len(v) for v in tree[site].values())
+        lines += ["<details>", f"<summary><b>{site}</b> ({site_total}문제)</summary>", ""]
         for level in sorted(tree[site], key=level_sort_key):
             items = sorted(tree[site][level], key=lambda p: int(p["number"]))
             lines += [
-                f"### {level} ({len(items)})",
+                "<details>",
+                f"<summary>{level} ({len(items)})</summary>",
                 "",
                 "| 번호 | 문제 | 푼 날짜 |",
                 "| --- | --- | --- |",
             ]
             for p in items:
                 lines.append(f"| {p['number']} | [{p['title']}]({p['url']}) | {p['date'][:10]} |")
-            lines.append("")
+            lines += ["", "</details>", ""]
+        lines += ["</details>", ""]
 
     lines += [COPYRIGHT, ""]
     return "\n".join(lines)
