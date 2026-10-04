@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 4문제** (SWEA 2 · 프로그래머스 2)
+**총 5문제** (SWEA 2 · 프로그래머스 3)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,13 +24,14 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (2문제)</summary>
+<summary><b>프로그래머스</b> (3문제)</summary>
 
 <details>
-<summary>Lv.0 (2)</summary>
+<summary>Lv.0 (3)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
+| 181937 | [n의 배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) | 2026-10-04 |
 | 181951 | [a와 b 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181951.%E2%80%85a%EC%99%80%E2%80%85b%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 2026-10-02 |
 | 181952 | [문자열 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 2026-10-02 |
 
