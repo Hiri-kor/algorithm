@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 7문제** (SWEA 2 · 프로그래머스 5)
+**총 8문제** (SWEA 2 · 프로그래머스 6)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,15 +24,16 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (5문제)</summary>
+<summary><b>프로그래머스</b> (6문제)</summary>
 
 <details>
-<summary>Lv.0 (5)</summary>
+<summary>Lv.0 (6)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
 | 181889 | [n 번째 원소까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181889.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80) | 2026-10-04 |
 | 181929 | [원소들의 곱과 합](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181929.%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%E2%80%85%EA%B3%B1%EA%B3%BC%E2%80%85%ED%95%A9) | 2026-10-04 |
+| 181933 | [flag에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
 | 181937 | [n의 배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) | 2026-10-04 |
 | 181951 | [a와 b 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181951.%E2%80%85a%EC%99%80%E2%80%85b%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 2026-10-02 |
 | 181952 | [문자열 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 2026-10-02 |
