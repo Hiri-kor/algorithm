@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 37문제** (SWEA 2 · 프로그래머스 35)
+**총 38문제** (SWEA 2 · 프로그래머스 36)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,13 +24,14 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (35문제)</summary>
+<summary><b>프로그래머스</b> (36문제)</summary>
 
 <details>
-<summary>Lv.0 (35)</summary>
+<summary>Lv.0 (36)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
+| 181841 | [꼬리 문자열](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181841.%E2%80%85%EA%BC%AC%EB%A6%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) | 2026-10-06 |
 | 181842 | [부분 문자열](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181842.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) | 2026-10-06 |
 | 181843 | [부분 문자열인지 확인하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181843.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B8%EC%A7%80%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181845 | [문자열로 변환](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181845.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%B3%80%ED%99%98) | 2026-10-04 |
