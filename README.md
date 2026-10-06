@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 35문제** (SWEA 2 · 프로그래머스 33)
+**총 36문제** (SWEA 2 · 프로그래머스 34)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (33문제)</summary>
+<summary><b>프로그래머스</b> (34문제)</summary>
 
 <details>
-<summary>Lv.0 (33)</summary>
+<summary>Lv.0 (34)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -55,6 +55,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181937 | [n의 배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) | 2026-10-04 |
 | 181938 | [두 수의 연산값 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181938.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%82%B0%EA%B0%92%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181939 | [더 크게 합치기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181939.%E2%80%85%EB%8D%94%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%ED%95%A9%EC%B9%98%EA%B8%B0) | 2026-10-06 |
+| 181941 | [문자 리스트를 문자열로 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181941.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181943 | [문자열 겹쳐쓰기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181943.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0) | 2026-10-06 |
 | 181944 | [홀짝 구분하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181944.%E2%80%85%ED%99%80%EC%A7%9D%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181945 | [문자열 돌리기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181945.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0) | 2026-10-06 |
