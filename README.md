@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 29문제** (SWEA 2 · 프로그래머스 27)
+**총 30문제** (SWEA 2 · 프로그래머스 28)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (27문제)</summary>
+<summary><b>프로그래머스</b> (28문제)</summary>
 
 <details>
-<summary>Lv.0 (27)</summary>
+<summary>Lv.0 (28)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -47,6 +47,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181927 | [마지막 두 원소](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181927.%E2%80%85%EB%A7%88%EC%A7%80%EB%A7%89%E2%80%85%EB%91%90%E2%80%85%EC%9B%90%EC%86%8C) | 2026-10-06 |
 | 181929 | [원소들의 곱과 합](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181929.%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%E2%80%85%EA%B3%B1%EA%B3%BC%E2%80%85%ED%95%A9) | 2026-10-04 |
 | 181933 | [flag에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
+| 181936 | [공배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181936.%E2%80%85%EA%B3%B5%EB%B0%B0%EC%88%98) | 2026-10-06 |
 | 181937 | [n의 배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) | 2026-10-04 |
 | 181938 | [두 수의 연산값 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181938.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%82%B0%EA%B0%92%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181943 | [문자열 겹쳐쓰기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181943.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0) | 2026-10-06 |
