@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 13문제** (SWEA 2 · 프로그래머스 11)
+**총 14문제** (SWEA 2 · 프로그래머스 12)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,16 +24,17 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (11문제)</summary>
+<summary><b>프로그래머스</b> (12문제)</summary>
 
 <details>
-<summary>Lv.0 (11)</summary>
+<summary>Lv.0 (12)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
 | 181845 | [문자열로 변환](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181845.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%B3%80%ED%99%98) | 2026-10-04 |
 | 181850 | [정수 부분](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181850.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EB%B6%80%EB%B6%84) | 2026-10-04 |
 | 181875 | [배열에서 문자열 대소문자 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181875.%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
+| 181876 | [소문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181876.%E2%80%85%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-10-06 |
 | 181889 | [n 번째 원소까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181889.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80) | 2026-10-04 |
 | 181910 | [문자열의 뒤의 n글자](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181910.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EB%92%A4%EC%9D%98%E2%80%85n%EA%B8%80%EC%9E%90) | 2026-10-06 |
 | 181929 | [원소들의 곱과 합](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181929.%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%E2%80%85%EA%B3%B1%EA%B3%BC%E2%80%85%ED%95%A9) | 2026-10-04 |
