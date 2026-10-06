@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 28문제** (SWEA 2 · 프로그래머스 26)
+**총 29문제** (SWEA 2 · 프로그래머스 27)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (26문제)</summary>
+<summary><b>프로그래머스</b> (27문제)</summary>
 
 <details>
-<summary>Lv.0 (26)</summary>
+<summary>Lv.0 (27)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -49,6 +49,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181933 | [flag에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
 | 181937 | [n의 배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98) | 2026-10-04 |
 | 181938 | [두 수의 연산값 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181938.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%82%B0%EA%B0%92%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) | 2026-10-06 |
+| 181943 | [문자열 겹쳐쓰기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181943.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0) | 2026-10-06 |
 | 181944 | [홀짝 구분하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181944.%E2%80%85%ED%99%80%EC%A7%9D%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) | 2026-10-06 |
 | 181945 | [문자열 돌리기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181945.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0) | 2026-10-06 |
 | 181946 | [문자열 붙여서 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181946.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B6%99%EC%97%AC%EC%84%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 2026-10-06 |
