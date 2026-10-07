@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 45문제** (SWEA 2 · 프로그래머스 43)
+**총 46문제** (SWEA 2 · 프로그래머스 44)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (43문제)</summary>
+<summary><b>프로그래머스</b> (44문제)</summary>
 
 <details>
-<summary>Lv.0 (43)</summary>
+<summary>Lv.0 (44)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -50,6 +50,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181892 | [n 번째 원소부터](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181892.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0) | 2026-10-06 |
 | 181896 | [첫 번째로 나오는 음수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181896.%E2%80%85%EC%B2%AB%E2%80%85%EB%B2%88%EC%A7%B8%EB%A1%9C%E2%80%85%EB%82%98%EC%98%A4%EB%8A%94%E2%80%85%EC%9D%8C%EC%88%98) | 2026-10-06 |
 | 181907 | [문자열의 앞의 n글자](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181907.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EC%95%9E%EC%9D%98%E2%80%85n%EA%B8%80%EC%9E%90) | 2026-10-06 |
+| 181908 | [접미사인지 확인하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181908.%E2%80%85%EC%A0%91%EB%AF%B8%EC%82%AC%EC%9D%B8%EC%A7%80%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) | 2026-10-07 |
 | 181910 | [문자열의 뒤의 n글자](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181910.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EB%92%A4%EC%9D%98%E2%80%85n%EA%B8%80%EC%9E%90) | 2026-10-06 |
 | 181915 | [글자 이어 붙여 문자열 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181915.%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%97%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) | 2026-10-06 |
 | 181927 | [마지막 두 원소](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181927.%E2%80%85%EB%A7%88%EC%A7%80%EB%A7%89%E2%80%85%EB%91%90%E2%80%85%EC%9B%90%EC%86%8C) | 2026-10-06 |
