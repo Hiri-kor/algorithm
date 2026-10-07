@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 43문제** (SWEA 2 · 프로그래머스 41)
+**총 44문제** (SWEA 2 · 프로그래머스 42)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (41문제)</summary>
+<summary><b>프로그래머스</b> (42문제)</summary>
 
 <details>
-<summary>Lv.0 (41)</summary>
+<summary>Lv.0 (42)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -43,6 +43,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181875 | [배열에서 문자열 대소문자 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181875.%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
 | 181876 | [소문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181876.%E2%80%85%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-10-06 |
 | 181877 | [대문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181877.%E2%80%85%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-10-06 |
+| 181879 | [길이에 따른 연산](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181879.%E2%80%85%EA%B8%B8%EC%9D%B4%EC%97%90%E2%80%85%EB%94%B0%EB%A5%B8%E2%80%85%EC%97%B0%EC%82%B0) | 2026-10-07 |
 | 181888 | [n개 간격의 원소들](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181888.%E2%80%85n%EA%B0%9C%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4) | 2026-10-06 |
 | 181889 | [n 번째 원소까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181889.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80) | 2026-10-04 |
 | 181892 | [n 번째 원소부터](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181892.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0) | 2026-10-06 |
