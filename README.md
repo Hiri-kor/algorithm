@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 50문제** (SWEA 2 · 프로그래머스 48)
+**총 51문제** (SWEA 2 · 프로그래머스 49)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (48문제)</summary>
+<summary><b>프로그래머스</b> (49문제)</summary>
 
 <details>
-<summary>Lv.0 (48)</summary>
+<summary>Lv.0 (49)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -42,6 +42,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181852 | [뒤에서 5등 위로](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181852.%E2%80%85%EB%92%A4%EC%97%90%EC%84%9C%E2%80%855%EB%93%B1%E2%80%85%EC%9C%84%EB%A1%9C) | 2026-10-07 |
 | 181853 | [뒤에서 5등까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181853.%E2%80%85%EB%92%A4%EC%97%90%EC%84%9C%E2%80%855%EB%93%B1%EA%B9%8C%EC%A7%80) | 2026-10-08 |
 | 181861 | [배열의 원소만큼 추가하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181861.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%A7%8C%ED%81%BC%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) | 2026-10-06 |
+| 181864 | [문자열 바꿔서 찾기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181864.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%94%EA%BF%94%EC%84%9C%E2%80%85%EC%B0%BE%EA%B8%B0) | 2026-10-08 |
 | 181868 | [공백으로 구분하기 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181868.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%852) | 2026-10-06 |
 | 181873 | [특정한 문자를 대문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181873.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EB%AC%B8%EC%9E%90%EB%A5%BC%E2%80%85%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-10-06 |
 | 181875 | [배열에서 문자열 대소문자 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181875.%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
