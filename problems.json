@@ -2,6 +2,14 @@
   {
     "site": "프로그래머스",
     "level": "Lv.0",
+    "title": "n보다 커질 때까지 더하기",
+    "number": "181884",
+    "date": "2026-10-13 12:11",
+    "url": "https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181884.%E2%80%85n%EB%B3%B4%EB%8B%A4%E2%80%85%EC%BB%A4%EC%A7%88%E2%80%85%EB%95%8C%EA%B9%8C%EC%A7%80%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0"
+  },
+  {
+    "site": "프로그래머스",
+    "level": "Lv.0",
     "title": "공백으로 구분하기 1",
     "number": "181869",
     "date": "2026-10-12 21:12",
