@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 68문제** (SWEA 2 · 프로그래머스 66)
+**총 69문제** (SWEA 2 · 프로그래머스 67)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (66문제)</summary>
+<summary><b>프로그래머스</b> (67문제)</summary>
 
 <details>
-<summary>Lv.0 (66)</summary>
+<summary>Lv.0 (67)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -78,6 +78,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181928 | [이어 붙인 수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181928.%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%9D%B8%E2%80%85%EC%88%98) | 2026-10-06 |
 | 181929 | [원소들의 곱과 합](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181929.%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%E2%80%85%EA%B3%B1%EA%B3%BC%E2%80%85%ED%95%A9) | 2026-10-04 |
 | 181930 | [주사위 게임 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181930.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852) | 2026-10-14 |
+| 181931 | [등차수열의 특정한 항만 더하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181931.%E2%80%85%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%ED%95%AD%EB%A7%8C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) | 2026-10-16 |
 | 181933 | [flag에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
 | 181934 | [조건 문자열](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181934.%E2%80%85%EC%A1%B0%EA%B1%B4%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) | 2026-10-07 |
 | 181935 | [홀짝에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181935.%E2%80%85%ED%99%80%EC%A7%9D%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-07 |
