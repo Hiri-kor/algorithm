@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 87문제** (SWEA 2 · 프로그래머스 85)
+**총 88문제** (SWEA 2 · 프로그래머스 86)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (85문제)</summary>
+<summary><b>프로그래머스</b> (86문제)</summary>
 
 <details>
-<summary>Lv.0 (85)</summary>
+<summary>Lv.0 (86)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181879 | [길이에 따른 연산](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181879.%E2%80%85%EA%B8%B8%EC%9D%B4%EC%97%90%E2%80%85%EB%94%B0%EB%A5%B8%E2%80%85%EC%97%B0%EC%82%B0) | 2026-10-07 |
 | 181882 | [조건에 맞게 수열 변환하기 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181882.%E2%80%85%EC%A1%B0%EA%B1%B4%EC%97%90%E2%80%85%EB%A7%9E%EA%B2%8C%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%E2%80%851) | 2026-10-13 |
 | 181884 | [n보다 커질 때까지 더하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181884.%E2%80%85n%EB%B3%B4%EB%8B%A4%E2%80%85%EC%BB%A4%EC%A7%88%E2%80%85%EB%95%8C%EA%B9%8C%EC%A7%80%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) | 2026-10-13 |
+| 181885 | [할 일 목록](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181885.%E2%80%85%ED%95%A0%E2%80%85%EC%9D%BC%E2%80%85%EB%AA%A9%EB%A1%9D) | 2026-11-10 |
 | 181886 | [5명씩](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181886.%E2%80%855%EB%AA%85%EC%94%A9) | 2026-10-18 |
 | 181887 | [홀수 vs 짝수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181887.%E2%80%85%ED%99%80%EC%88%98%E2%80%85vs%E2%80%85%EC%A7%9D%EC%88%98) | 2026-10-19 |
 | 181888 | [n개 간격의 원소들](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181888.%E2%80%85n%EA%B0%9C%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4) | 2026-10-06 |
