@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 101문제** (SWEA 2 · 프로그래머스 99)
+**총 102문제** (SWEA 2 · 프로그래머스 100)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (99문제)</summary>
+<summary><b>프로그래머스</b> (100문제)</summary>
 
 <details>
-<summary>Lv.0 (99)</summary>
+<summary>Lv.0 (100)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -71,6 +71,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181887 | [홀수 vs 짝수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181887.%E2%80%85%ED%99%80%EC%88%98%E2%80%85vs%E2%80%85%EC%A7%9D%EC%88%98) | 2026-10-19 |
 | 181888 | [n개 간격의 원소들](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181888.%E2%80%85n%EA%B0%9C%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4) | 2026-10-06 |
 | 181889 | [n 번째 원소까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181889.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80) | 2026-10-04 |
+| 181890 | [왼쪽 오른쪽](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181890.%E2%80%85%EC%99%BC%EC%AA%BD%E2%80%85%EC%98%A4%EB%A5%B8%EC%AA%BD) | 2026-11-19 |
 | 181891 | [순서 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181891.%E2%80%85%EC%88%9C%EC%84%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-11-05 |
 | 181892 | [n 번째 원소부터](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181892.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0) | 2026-10-06 |
 | 181893 | [배열 조각하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181893.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A1%B0%EA%B0%81%ED%95%98%EA%B8%B0) | 2026-11-18 |
