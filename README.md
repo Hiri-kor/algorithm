@@ -4,7 +4,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 105문제** (SWEA 2 · 프로그래머스 103)
+**총 106문제** (SWEA 2 · 프로그래머스 104)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -24,10 +24,10 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (103문제)</summary>
+<summary><b>프로그래머스</b> (104문제)</summary>
 
 <details>
-<summary>Lv.0 (103)</summary>
+<summary>Lv.0 (104)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -48,6 +48,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 | 181848 | [문자열을 정수로 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181848.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%E2%80%85%EC%A0%95%EC%88%98%EB%A1%9C%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-08 |
 | 181849 | [문자열 정수의 합](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181849.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%95%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) | 2026-10-06 |
 | 181850 | [정수 부분](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181850.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EB%B6%80%EB%B6%84) | 2026-10-04 |
+| 181851 | [전국 대회 선발 고사](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181851.%E2%80%85%EC%A0%84%EA%B5%AD%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EA%B3%A0%EC%82%AC) | 2026-11-19 |
 | 181852 | [뒤에서 5등 위로](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181852.%E2%80%85%EB%92%A4%EC%97%90%EC%84%9C%E2%80%855%EB%93%B1%E2%80%85%EC%9C%84%EB%A1%9C) | 2026-10-07 |
 | 181853 | [뒤에서 5등까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181853.%E2%80%85%EB%92%A4%EC%97%90%EC%84%9C%E2%80%855%EB%93%B1%EA%B9%8C%EC%A7%80) | 2026-10-08 |
 | 181854 | [배열의 길이에 따라 다른 연산하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181854.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EC%97%B0%EC%82%B0%ED%95%98%EA%B8%B0) | 2026-10-10 |
