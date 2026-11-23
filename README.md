@@ -1,6 +1,6 @@
 # algorithm
 
-SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
+백준 · SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
@@ -159,6 +159,7 @@ SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)
 ## 저작권 안내
 
 - 각 문제의 문제 설명, 입출력 예시 등 문제 원문의 저작권은 해당 출처에 있습니다.
+  - 백준 문제: [백준 온라인 저지](https://www.acmicpc.net) (문제별 출처는 각 문제 페이지에 표시)
   - SWEA 문제: [SW Expert Academy](https://swexpertacademy.com)
   - 프로그래머스 문제: [프로그래머스](https://school.programmers.co.kr)
 - 이 저장소의 풀이 코드는 학습 목적으로 작성한 것이며, 각 문제 폴더의 README에 원문 링크와 출처를 함께 적었습니다.
