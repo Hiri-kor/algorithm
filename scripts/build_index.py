@@ -1,5 +1,5 @@
 """레포 안의 모든 풀이를 읽어서 목록 README.md와 problems.json을 만든다.
-지원: SWEA, 프로그래머스 (백준허브가 올린 README 형식)
+지원: 백준, SWEA, 프로그래머스 (백준허브가 올린 README 형식)
 
 사용법: 레포 최상위에서  python scripts/build_index.py
 """
@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 REPO_URL = "https://github.com/Hiri-kor/algorithm/tree/main"
 
 # 백준허브 README 첫 줄 예:
+#   백준        "# [Bronze V] A+B - 1000"
 #   SWEA        "# [D1] 홀수만 더하기 - 2072"
 #   프로그래머스  "# [level 0] 문자열 출력하기 - 181952"
 # \s 는 일반 공백뿐 아니라 백준허브가 쓰는 특수 공백(U+2005)도 잡는다.
@@ -20,19 +21,24 @@ HEADER_RE = re.compile(r"^#\s*\[(.+?)\]\s*(.+?)\s*-\s*(\d+)\s*$")
 DATE_RE = re.compile(r"### 제출 일자\s+(.+)")
 
 # 사이트마다 날짜 형식이 다르다.
-#   SWEA        "2026-10-01 21:50"
-#   프로그래머스  "2026년 10월 02일 12:20:20"
+#   SWEA              "2026-10-01 21:50"
+#   백준, 프로그래머스   "2026년 10월 02일 12:20:20"
 DATE_FORMATS = ["%Y-%m-%d %H:%M", "%Y년 %m월 %d일 %H:%M:%S"]
 
-INTRO = "SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)"
+INTRO = "백준 · SWEA · 프로그래머스 알고리즘 풀이 기록 (Python)"
 
 COPYRIGHT = """## 저작권 안내
 
 - 각 문제의 문제 설명, 입출력 예시 등 문제 원문의 저작권은 해당 출처에 있습니다.
+  - 백준 문제: [백준 온라인 저지](https://www.acmicpc.net) (문제별 출처는 각 문제 페이지에 표시)
   - SWEA 문제: [SW Expert Academy](https://swexpertacademy.com)
   - 프로그래머스 문제: [프로그래머스](https://school.programmers.co.kr)
 - 이 저장소의 풀이 코드는 학습 목적으로 작성한 것이며, 각 문제 폴더의 README에 원문 링크와 출처를 함께 적었습니다.
 - 저작권자의 요청이 있으면 해당 내용을 바로 삭제하겠습니다."""
+
+# 백준 티어 순서 (쉬운 것부터). 같은 티어 안에서는 V → I 순으로 어려워진다.
+TIERS = ["Bronze", "Silver", "Gold", "Platinum", "Diamond", "Ruby", "Master"]
+ROMAN = {"V": 5, "IV": 4, "III": 3, "II": 2, "I": 1}
 
 
 def parse_date(text):
@@ -45,15 +51,21 @@ def parse_date(text):
 
 
 def short_level(level):
-    """'level 0' → 'Lv.0', 'D1' → 'D1'"""
+    """'level 0' → 'Lv.0', 'D1' → 'D1', 'Bronze V' → 'Bronze V'"""
     m = re.fullmatch(r"level\s*(\d+)", level, re.I)
     return f"Lv.{m.group(1)}" if m else level
 
 
 def level_sort_key(level):
-    """D1, D2 ... / Lv.0, Lv.1 ... 을 숫자 순서로 정렬하기 위한 키"""
+    """쉬운 난이도가 위로 오도록 정렬하는 키.
+    백준: Bronze V, Bronze IV ... Silver V ... / 그 외: D1, D2 ... / Lv.0, Lv.1 ..."""
+    parts = level.split()
+    if parts and parts[0] in TIERS:
+        tier = TIERS.index(parts[0])
+        step = -ROMAN.get(parts[1], 0) if len(parts) > 1 else 0
+        return (0, tier, step, level)
     m = re.search(r"\d+", level)
-    return (int(m.group()) if m else 999, level)
+    return (1, int(m.group()) if m else 999, 0, level)
 
 
 def parse_problem(readme_path):
@@ -73,7 +85,7 @@ def parse_problem(readme_path):
     level, title, number = header.groups()
     folder = readme_path.parent.relative_to(ROOT)
     return {
-        "site": folder.parts[0],          # 맨 위 폴더 이름: SWEA, 프로그래머스
+        "site": folder.parts[0],          # 맨 위 폴더 이름: 백준, SWEA, 프로그래머스
         "level": short_level(level),
         "title": title,
         "number": number,
