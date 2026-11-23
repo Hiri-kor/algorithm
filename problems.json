@@ -1,5 +1,13 @@
 [
   {
+    "site": "백준",
+    "level": "Bronze V",
+    "title": "A+B",
+    "number": "1000",
+    "date": "2026-11-23 13:00",
+    "url": "https://github.com/Hiri-kor/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB"
+  },
+  {
     "site": "프로그래머스",
     "level": "Lv.0",
     "title": "2의 영역",
