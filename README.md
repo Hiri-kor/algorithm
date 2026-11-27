@@ -4,7 +4,7 @@
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 119문제** (SWEA 2 · 백준 1 · 프로그래머스 116)
+**총 120문제** (SWEA 2 · 백준 1 · 프로그래머스 117)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -38,10 +38,10 @@
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (116문제)</summary>
+<summary><b>프로그래머스</b> (117문제)</summary>
 
 <details>
-<summary>Lv.0 (116)</summary>
+<summary>Lv.0 (117)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -74,6 +74,7 @@
 | 181857 | [배열의 길이를 2의 거듭제곱으로 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181857.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4%EB%A5%BC%E2%80%852%EC%9D%98%E2%80%85%EA%B1%B0%EB%93%AD%EC%A0%9C%EA%B3%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) | 2026-11-27 |
 | 181860 | [빈 배열에 추가, 삭제하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181860.%E2%80%85%EB%B9%88%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%E2%80%85%EC%B6%94%EA%B0%80%EF%BC%8C%E2%80%85%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) | 2026-11-27 |
 | 181861 | [배열의 원소만큼 추가하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181861.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%A7%8C%ED%81%BC%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) | 2026-10-06 |
+| 181862 | [세 개의 구분자](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181862.%E2%80%85%EC%84%B8%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%EA%B5%AC%EB%B6%84%EC%9E%90) | 2026-11-27 |
 | 181863 | [rny_string](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181863.%E2%80%85rny%EF%BC%BFstring) | 2026-10-09 |
 | 181864 | [문자열 바꿔서 찾기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181864.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%94%EA%BF%94%EC%84%9C%E2%80%85%EC%B0%BE%EA%B8%B0) | 2026-10-08 |
 | 181865 | [간단한 식 계산하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181865.%E2%80%85%EA%B0%84%EB%8B%A8%ED%95%9C%E2%80%85%EC%8B%9D%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | 2026-11-06 |
