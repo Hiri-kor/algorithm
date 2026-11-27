@@ -4,7 +4,7 @@
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 116문제** (SWEA 2 · 백준 1 · 프로그래머스 113)
+**총 117문제** (SWEA 2 · 백준 1 · 프로그래머스 114)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -38,10 +38,10 @@
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (113문제)</summary>
+<summary><b>프로그래머스</b> (114문제)</summary>
 
 <details>
-<summary>Lv.0 (113)</summary>
+<summary>Lv.0 (114)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -80,6 +80,7 @@
 | 181868 | [공백으로 구분하기 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181868.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%852) | 2026-10-06 |
 | 181869 | [공백으로 구분하기 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181869.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%851) | 2026-10-12 |
 | 181870 | [ad 제거하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181870.%E2%80%85ad%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) | 2026-10-22 |
+| 181871 | [문자열이 몇 번 등장하는지 세기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181871.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%E2%80%85%EB%AA%87%E2%80%85%EB%B2%88%E2%80%85%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%EC%A7%80%E2%80%85%EC%84%B8%EA%B8%B0) | 2026-11-27 |
 | 181873 | [특정한 문자를 대문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181873.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EB%AC%B8%EC%9E%90%EB%A5%BC%E2%80%85%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) | 2026-10-06 |
 | 181874 | [A 강조하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181874.%E2%80%85A%E2%80%85%EA%B0%95%EC%A1%B0%ED%95%98%EA%B8%B0) | 2026-10-17 |
 | 181875 | [배열에서 문자열 대소문자 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181875.%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2026-10-04 |
