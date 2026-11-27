@@ -4,7 +4,7 @@
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 110문제** (SWEA 2 · 백준 1 · 프로그래머스 107)
+**총 111문제** (SWEA 2 · 백준 1 · 프로그래머스 108)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -38,10 +38,10 @@
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (107문제)</summary>
+<summary><b>프로그래머스</b> (108문제)</summary>
 
 <details>
-<summary>Lv.0 (107)</summary>
+<summary>Lv.0 (108)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
@@ -71,6 +71,7 @@
 | 181863 | [rny_string](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181863.%E2%80%85rny%EF%BC%BFstring) | 2026-10-09 |
 | 181864 | [문자열 바꿔서 찾기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181864.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%94%EA%BF%94%EC%84%9C%E2%80%85%EC%B0%BE%EA%B8%B0) | 2026-10-08 |
 | 181865 | [간단한 식 계산하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181865.%E2%80%85%EA%B0%84%EB%8B%A8%ED%95%9C%E2%80%85%EC%8B%9D%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | 2026-11-06 |
+| 181866 | [문자열 잘라서 정렬하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9E%98%EB%9D%BC%EC%84%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) | 2026-11-27 |
 | 181867 | [x 사이의 개수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181867.%E2%80%85x%E2%80%85%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | 2026-11-27 |
 | 181868 | [공백으로 구분하기 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181868.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%852) | 2026-10-06 |
 | 181869 | [공백으로 구분하기 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181869.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%851) | 2026-10-12 |
