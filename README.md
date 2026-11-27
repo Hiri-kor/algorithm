@@ -4,7 +4,7 @@
 
 <!-- 이 파일은 scripts/build_index.py가 자동으로 만듭니다. 직접 고치면 다음 갱신 때 덮어써집니다. -->
 
-**총 114문제** (SWEA 2 · 백준 1 · 프로그래머스 111)
+**총 115문제** (SWEA 2 · 백준 1 · 프로그래머스 112)
 
 아래 항목을 누르면 펼쳐집니다.
 
@@ -38,13 +38,14 @@
 </details>
 
 <details>
-<summary><b>프로그래머스</b> (111문제)</summary>
+<summary><b>프로그래머스</b> (112문제)</summary>
 
 <details>
-<summary>Lv.0 (111)</summary>
+<summary>Lv.0 (112)</summary>
 
 | 번호 | 문제 | 푼 날짜 |
 | --- | --- | --- |
+| 181829 | [이차원 배열 대각선 순회하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181829.%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0) | 2026-11-27 |
 | 181830 | [정사각형으로 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181830.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) | 2026-11-19 |
 | 181831 | [특별한 이차원 배열 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181831.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%852) | 2026-11-27 |
 | 181833 | [특별한 이차원 배열 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181833.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%851) | 2026-11-27 |
